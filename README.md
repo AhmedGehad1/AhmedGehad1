@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🌱 I’m currently learning Full-stake development 
+😄 Pronouns: He/Him
+⚡ Fun fact: Like chalenges 
+
 <!--
 **AhmedGehad1/AhmedGehad1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
